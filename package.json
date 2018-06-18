@@ -1,0 +1,46 @@
+{
+  "name": "temperature-notifier",
+  "version": "1.0.0",
+  "description": "Pakcage json for beer temperature notifer demo",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "keywords": [
+    "grunt",
+    "nodejs"
+  ],
+  "author": "Saurabh Gattani",
+  "license": "ISC",
+  "private": true,
+  "devDependencies": {
+    "body-parser": "latest",
+    "express": "latest",
+    "grunt": "~0.4.5",
+    "grunt-bg-shell": "^2.3.3",
+    "grunt-cli": "^1.2.0",
+    "grunt-contrib-clean": "~0.7.0",
+    "grunt-contrib-concat": "~1.0.1",
+    "grunt-contrib-copy": "latest",
+    "grunt-contrib-cssmin": "~1.0.2",
+    "grunt-contrib-jshint": "~1.0.0",
+    "grunt-contrib-uglify": "~1.0.1",
+    "grunt-contrib-watch": "latest",
+    "grunt-karma": "latest",
+    "grunt-run": "latest",
+    "grunt-sass": "latest",
+    "http": "latest",
+    "jasmine-core": "~2.6.2",
+    "jasmine-spec-reporter": "~4.1.0",
+    "karma": "~1.7.0",
+    "karma-background": "^0.1.0",
+    "karma-chrome-launcher": "~2.1.1",
+    "karma-cli": "~1.0.1",
+    "karma-coverage-istanbul-reporter": "^1.2.1",
+    "karma-jasmine": "~1.1.0",
+    "karma-jasmine-html-reporter": "^0.2.2",
+    "node-sass": "^4.5.3",
+    "os": "latest",
+    "protractor": "~5.1.2"
+  }
+}
